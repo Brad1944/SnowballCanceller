@@ -1,0 +1,4 @@
+name: SnowballCanceller
+version: '${version}'
+main: top.apip.snowballcanceller.SnowballCanceller
+api-version: 1.19
